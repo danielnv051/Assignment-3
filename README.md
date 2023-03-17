@@ -2,7 +2,7 @@
 ---
 ## files description
 
-| BMM.py | Calculate B-M-M |
+|   BMM.py  |   Calculate B-M-M  |
 | countWords.py | Calculate words count |
 | HangMan.py | Real HangMan Game |
 | KMM.py | Calculate K-M-M|
