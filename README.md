@@ -1,6 +1,6 @@
-#Assigment 3
+# Assigment 3
 ---
-##files description
+## files description
 
 | BMM.py | Calculate B-M-M |
 | countWords.py | Calculate words count |
